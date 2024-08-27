@@ -30,6 +30,7 @@ else{
 </head>
 <body>
     <!-- Incluir la barra de navegación -->
+    <br><br>
     <div id="navbar-container"></div>
     <div class="container">
         <div class="title">ENTRADAS</div>
